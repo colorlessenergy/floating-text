@@ -1,0 +1,12 @@
+body {
+  transition: all 1s ease;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  display: inline-block;
+  margin: 0;
+  position: absolute;
+  transition: all 1s ease;
+}
